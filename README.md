@@ -30,7 +30,5 @@ This project demonstrates the usage of Generative AI to generate blog content ba
 - Google Generative AI API
 - Python community
 
-### Demo Link
 
-https://drive.google.com/file/d/1jQI6MI8bnCDhMOPfymwUevn21YfAc0m1/view?usp=sharing![image](https://github.com/Abi-naya-S/Blog_generator/assets/133565515/cc6e72fa-0d7f-490f-8d51-7eec3e540f4a)
 
